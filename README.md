@@ -1,7 +1,7 @@
-# vjtiorphanagereal
-will be real if completed
+Orphanage Managemant System
 
-How to Use the Hope Orphanage Managemant System:
+Steps to use:
+
 1. Download the zip file
 
 2. Extract the file and copy erms folder
